@@ -57,6 +57,8 @@ For each board there are two choices, a regular build that just updates the firm
 * [Learn: Displaying Animated GIFs on Interstate 75 W](https://learn.pimoroni.com/article/gifs-and-interstate-75-w)
 
 ## Other Resources
+  * https://share.google/aimode/i2Tn4lXeRE9Sol2Wd
+
 
 Links to community projects and other resources that you might find helpful can be found below. Note that these code examples have not been written/tested by us and we're not able to offer support with them.
 
